@@ -1,4 +1,4 @@
-name: CI
+name: Simple Life Flows
 
 on:
   push:
